@@ -109,12 +109,12 @@ projects:
     intro: 
     assignments:
       - title: Asynchronous Federated Learning with DAG-based Blockchain in Edge Computing
-        link: "#hook"
+        link: 
         tagline: "Led a 5-person research team at the Seoul National University blockchain academy, and wrote a survey paper on
 the integration of asynchronous FL and directed acyclic graph-based blockchain in edge computing"
 
       - title: The Impact of Blockchain on Open Banking System
-        link: "#"
+        link: 
         tagline: "Surveyed the impact of blockchain on financial industry in terms of payment data utilization, and won a Grand
 Prize in the 8th Fin-Tech Idea and Paper Competition at Korea Internet Security Agency (KISA)"
 
@@ -125,6 +125,9 @@ oss:
       - title: IoTeX Blockchain Core Protocol Development
         link: "https://github.com/iotexproject/iotex-core"
         tagline: "Contributed to the development of IoTeX blockchain core protocol, including the implementation of slashing, staking and consensus in GoLang"
+      - title: Transaction Privacy Protocol in Blockchain using zkSNARKs
+        link: "https://cyclone.xyz/iotx"
+        tagline: "Contributed to the smart contract development of transaction privacy protocol in blockchain using zkSNARKs and token economy, so-called cyclone protocol"
 
 publications:
     title: Publications
