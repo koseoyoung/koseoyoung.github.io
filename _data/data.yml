@@ -86,7 +86,7 @@ experiences:
         time: May 2023 -  August 2023 
         company: Carnegie Mellon University, Pittsburgh, PA
         details: |
-            - Working with Professor Fanti in evaluating deep generative models for time-series in synthetic data generation and long-range forecasting
+            - Collaborating with Professor Fanti to evaluate deep generative models for time-series data generation and long-range forecasting
       - role: Software Engineer
         time: Jan 2021 – July 2022
         company: Samsung Research, Seoul, South Korea
@@ -108,10 +108,13 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: Usable Privacy Enhancing Technologies (PETs); Differential Privacy 
+        link: 
+        tagline: "Conducted a study evaluating the usability of randomized respone technique for privacy-preserving sensitive data sharing; Accepted at SOUPS poster/workshop 2023"
+
       - title: Asynchronous Federated Learning with DAG-based Blockchain in Edge Computing
         link: 
-        tagline: "Led a 5-person research team at the Seoul National University blockchain academy, and wrote a survey paper on
-the integration of asynchronous FL and directed acyclic graph-based blockchain in edge computing"
+        tagline: "Led a 5-person team at Seoul National University blockchain academy, authoring a survey paper on integrating asynchronous federated learning (FL) and directed acyclic graph-based blockchain for edge computing"
 
       - title: The Impact of Blockchain on Open Banking System
         link: 
